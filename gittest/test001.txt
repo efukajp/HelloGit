@@ -3,3 +3,6 @@ AAA
 BBB
 CCC
 DDD
+
+Accept Current Change
+Accept Incoming Change
